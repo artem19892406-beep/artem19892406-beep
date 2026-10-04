@@ -1,16 +1,24 @@
-## Hi there 👋
+# Артём — AI-автоматизация для бизнеса и риелторов
 
-<!--
-**artem19892406-beep/artem19892406-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Когда контентом начинает управлять система.
 
-Here are some ideas to get you started:
+Я делаю системы, которые берут на себя рутину: заявки, контент, ответы клиентам, напоминания, отчёты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что можно автоматизировать
+
+- Обработку заявок и первый ответ клиенту
+- Напоминания и повторные касания
+- Контент и публикации в соцсетях
+- Отчётность, которую обычно собирают руками
+- Рутину менеджеров и риелторов
+- Поиск и фильтрацию потенциальных клиентов
+
+Как это устроено именно под ваш бизнес — разбираем на консультации.
+
+## Стек
+
+Python, REST API, webhooks, n8n, OpenAI и Claude API, AI-агенты, Telegram-боты, PostgreSQL, Docker, Linux, Git.
+
+## Контакты
+
+Telegram: https://t.me/krd_lider
